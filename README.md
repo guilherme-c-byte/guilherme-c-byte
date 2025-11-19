@@ -10,9 +10,9 @@ ght## Olá visitante! 🤠
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-c-byte&stats_format=bytes&theme=gotham)
 
 <div style="background-color: white; padding: 10px;">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 
 <div style="background-color: white; padding: 10px;">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
