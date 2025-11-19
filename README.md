@@ -18,4 +18,4 @@ ght## Olá visitante! 🤠
    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </div>
 
-  <img height="60" width="60" src="https://tenor.com/view/dog-enter-the-gungeon-pet-gif-21219481.gif">
+  <img height="50" width="50" src="https://tenor.com/view/dog-enter-the-gungeon-pet-gif-21219481.gif">
