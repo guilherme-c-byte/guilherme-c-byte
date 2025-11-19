@@ -19,5 +19,5 @@ ght## Olá visitante! 🤠
 </div>
 
 <div>
-<img height="40" width="50" src="https://tenor.com/pt-BR/view/dog-enter-the-gungeon-pet-gif-21219481">
+<img src="https://tenor.com/pt-BR/view/dog-enter-the-gungeon-pet-gif-21219481">
 </div>
