@@ -18,4 +18,4 @@ ght## Olá visitante! 🤠
    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </div>
 
-<div class="tenor-gif-embed" data-postid="21219481" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dog-enter-the-gungeon-pet-gif-21219481">Dog Enter The Gungeon GIF</a>from <a href="https://tenor.com/search/dog-gifs">Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="21219481" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dog-enter-the-gungeon-pet-gif-21219481">Dog Enter The Gungeon GIF</a>from <a href="https://tenor.com/search/dog-gifs">Dog GIFs</a></div> 
