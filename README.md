@@ -6,9 +6,6 @@ ght## Olá visitante! 🤠
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Battleblock Teather é meu jogo favorito
 
-<div>
-<img height="40" width="50" src="https://tenor.com/pt-BR/view/dog-enter-the-gungeon-pet-gif-21219481" alt="Um gif animado">
-</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-c-byte&show_icons=true&theme=gotham&bg_color=00000000&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-c-byte&stats_format=bytes&theme=gotham)
 
@@ -19,4 +16,8 @@ ght## Olá visitante! 🤠
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+</div>
+
+<div>
+<img height="40" width="50" src="https://tenor.com/pt-BR/view/dog-enter-the-gungeon-pet-gif-21219481" alt="Um gif animado">
 </div>
