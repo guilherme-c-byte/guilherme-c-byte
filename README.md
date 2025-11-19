@@ -9,8 +9,6 @@
 <div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-c-byte&show_icons=true&theme=gotham&bg_color=00000000&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-c-byte&stats_format=bytes&theme=gotham)
-</div>
-
-<div style="display: inline_block"><br>
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
