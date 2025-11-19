@@ -1,4 +1,4 @@
-## Olá visitante! 🤠
+ght## Olá visitante! 🤠
 - 🔭 Sou estudante do ensino médio e trabalho com Java.
 - 🌱 Estudando C# e aprimorando em C.
 - 🤔 Busco uma ajuda em JavaScript e TypeScript
@@ -9,4 +9,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-c-byte&show_icons=true&theme=gotham&bg_color=00000000&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-c-byte&stats_format=bytes&theme=gotham)
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
