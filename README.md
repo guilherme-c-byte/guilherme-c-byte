@@ -5,3 +5,5 @@
 - 📫 Email: guilherme_costa11@estudante.sesisenai.org.br
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Battleblock Teather é meu jogo favorito
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-c-byte&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
