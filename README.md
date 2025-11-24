@@ -8,7 +8,7 @@
 **⚡Curiosidade:**
 -  Battleblock Teather é meu jogo favorito
 <div>
-  <img style="border: 200px solid red" align="right" height="180" width="174" src="https://clan.fastly.steamstatic.com/images/5795738/d5673ed83851a3663b20130026131bfafd8f4a68.gif">
+  <img style="border: 200px solid red" align="right" height="176" width="170" src="https://clan.fastly.steamstatic.com/images/5795738/d5673ed83851a3663b20130026131bfafd8f4a68.gif">
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-c-byte&show_icons=true&theme=gotham&bg_color=00000000&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
