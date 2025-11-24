@@ -11,8 +11,8 @@
   <img style="border: 200px solid red" align="right" height="172" width="166" src="https://clan.fastly.steamstatic.com/images/5795738/d5673ed83851a3663b20130026131bfafd8f4a68.gif">
 </div>
 
-[![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-c-byte&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-c-byte&stats_format=bytes&theme=gotham)
+[![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-c-byte&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="background-color: white; padding: 10px;">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
