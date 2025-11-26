@@ -1,18 +1,12 @@
 <h2 align="left">Olá visitante! 🤠</h2>
 
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-c-byte&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-c-byte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+  <img align="left" src="https://streak-stats.demolab.com?user=guilherme-c-byte&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://clan.fastly.steamstatic.com/images/5795738/d5673ed83851a3663b20130026131bfafd8f4a68.gif"  />
-
-###
-
+<hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -44,6 +38,22 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/guilherme-c-byte/guilherme-c-byte/output/snake.svg" alt="Snake animation" />
+<h1 align="center"></h1>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+  <img align="right" height="150" src="https://clan.fastly.steamstatic.com/images/5795738/d5673ed83851a3663b20130026131bfafd8f4a68.gif"  />
+
+###
 
 ###
